@@ -24,8 +24,7 @@ M = C XOR K
 1100110101
 M = 1110101010
 
-
-* Important point if the message had 20 digit and the key had 10 digit we should repeat the key 1 more time like this 
+Important point if the message had 20 digit and the key had 10 digit we should repeat the key 1 more time like this 
 M = 10010100011101101001 20 digit 
 K = 1110010011  10 digit 
 K after repeating  = 11100100111110010011
